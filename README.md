@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yankz</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 👨‍💻 All of my projects are available at [yankzy.github.io/yankzk](yankzy.github.io/yankzk)
+- 👨‍💻 All of my projects are available at [Portfolio](http://yankz.vercel.app/)
 
 - 📝 I regularly write articles on [https://yankz.medium.com/](https://yankz.medium.com/)
 
